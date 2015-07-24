@@ -1,6 +1,10 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">So you want to organize a conference? That's pretty awesome! But we know that you don't have time to create the website, since you have to worry about contacting sponsors, chossing the right place, buying airplane tickets for speakers and many other things.</p>
 
-<p>That's why we created this project! <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> is an iniciative of <a href="http://braziljs.org">BrazilJS Foundation</a> that provides a simple structure built on top of Docpad, a static generator in NodeJS, with all the things you need to create a event. We also provide a responsive template with i18n!</p>
+<img src="http://diadocodigo.org/themes/yellow-swan/img/diadocodigo.jpg" />
+<p itemprop="description">O Dia do Código é um evento feito por programadores para programdores. O objetivo do Dia do Código é realizar encontros onde desenvolvedores possam se reunir para falar sobre suas experiências com Linguagens de Programação e Desenvolvimento de Software em Geral. Desde Desenvolimento de Games, Aplicações Web até gerenciamento de Servidores Web.</p>
 
-<p>This is just a live demo, check our <a href="https://github.com/braziljs/conf-boilerplate">repository on Github</a> for more details =D</p>
+<p>Este evento só é possível devido a união do Teresina Hacker Club(http://teresinahc.org), GURUPI(Grupo de usuários Ruby) e PUG-PI(Grupo de Usuários Python) mas o foco é fomentar o Encontro de Programadores sem restrições.	</p>
+
+<p>O evento é totalmente <strong>Gratuito</strong> e qualquer pessoa que se caracterizar como no mínimo Curioso a respeito do mundo do Código está apto a participar para assistir apresentações com profissionais da área.</p>
+
+<p><strong>Let`s code!</strong></p>

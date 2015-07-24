@@ -7,7 +7,7 @@
 <!-- HEADER -->
 <header class="header">
   <div class="wrapper">
-    <h1 class="logo-name">
+    <h1 class="logo-name"  style="text-outline: 200px 200px #000000;">
       <a class="logo-link" href="#" title="<%= @conf.name %>" itemprop="name"><%= @conf.name %></a>
     </h1>
     <h2 class="tagline"><%= @conf.date %>, <%= @conf.venue %>, <%= @conf.city %></h2>
