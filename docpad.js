@@ -61,8 +61,8 @@ module.exports = {
           text: "@renatosousafh"
         },
         presentation: {
-          title: "TDD - Desenvolimento Orientado a Testes. O que é e para que server?",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          title: "Deploy de Aplicações com Capistrano.",
+          description: "Desenvolver uma aplicação é um processo árduo, mas garantir que sua aplicação vai subir para um ambiente de produção pode se tornar um pesadelo maior ainda. Nesta apresentação descreverei um pouco a respeito do Capistrano, uma biblioteca Ruby que facilita o processo de Deploy de Apps Web, não só feitas com Ruby on Rails mas com outros frameworks",
           time: "15h00"
         }
       }
@@ -71,11 +71,16 @@ module.exports = {
 
     // List of Sponsors
     sponsors: [
-      // {
-      //   name: "Eventick",
-      //   logo: "themes/yellow-swan/img/sponsor.png",
-      //   url: "http://eventick.com.br"
-      // }
+      {
+        name: "128 bits",
+        logo: "themes/yellow-swan/img/128bits.jpg",
+        url: "http://128bits.cc"
+      },
+      {
+        name: "Casa do Código",
+        logo: "themes/yellow-swan/img/casadocodigo.png",
+        url: "http://www.casadocodigo.com.br/"
+      }
     ],
 
     // List of Partners
